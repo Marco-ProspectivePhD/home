@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year master student in the Faculty of Information, University of Toronto. I am currently researching on socio-technical infrastructure of technology in social movement with a broader interest on technology that protects democracy - From social media, AI, to cryptography and decentralization. I am advised by Professor [Vera Khovanskaya](https://verakhovanskaya.github.io/) on my master's thesis and am working with Profssor [Priyank Chandra](https://www.priyankc.com/) as part of the [Socio-Technical Resistence and Ethical Technologies (STREET) Lab](https://www.streetlab.tech/). 
+I am a final-year master student in the Faculty of Information, University of Toronto. I am currently researching on socio-technical infrastructure of technology in social movement with a broader interest on technologies that protect our democracy - From social media, AI, to cryptography and tactices in using them. I am very fortunate to be advised by Professor [Vera Khovanskaya](https://verakhovanskaya.github.io/) on my master's thesis and by Profssor [Priyank Chandra](https://www.priyankc.com/) as part of the [Socio-Technical Resistence and Ethical Technologies (STREET) Lab](https://www.streetlab.tech/). The two kind souls who showed me the world by teaching me how to read and write :D
+
+
+
+My academic background includes a Master of Information - Data Science and Information Systems from the University of Toronto, and a Bachelor of Business Administration - Management Sciences from City University of Hong Kong. 
+
 
 
 
