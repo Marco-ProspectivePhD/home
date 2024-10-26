@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Google Scholar Profile.png"
+  avatar           : "images/profile.png"
   name             : "Marco Chan"
   pronouns         : "He/Him"  
   bio              : "Master Student in Information: Human-Centered Data Science & Information Systems Design"
