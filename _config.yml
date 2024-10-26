@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Marco Chan"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"  
   bio              : "Master Student in Information: Human-Centered Data Science & Information Systems Design"
   location         : "Toronto, Ontario"
   employer         : "University of Toronto"
@@ -58,7 +58,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
+  mastodon         : "https://hci.social/@hciphd"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
