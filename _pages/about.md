@@ -11,7 +11,7 @@ I am a final-year master student in the Faculty of Information, University of To
 
 I have a broader research interest on technologies that protect our backsliding democracy - From social media, AI, to cryptography and tactics in using them. 
 
-I am very fortunate to be advised by Professor [Vera Khovanskaya](https://verakhovanskaya.github.io/) on my master's thesis and by Profssor [Priyank Chandra](https://www.priyankc.com/) as part of the [Socio-Technical Resistence and Ethical Technologies (STREET) Lab](https://www.streetlab.tech/). The two kind souls who showed me the world by teaching me how to read and write :D
+I am very fortunate to be advised by Professor [Vera Khovanskaya](https://verakhovanskaya.github.io/) on my master's thesis and by Profssor [Priyank Chandra](https://www.priyankc.com/) on my diasporic Hong Kong project as part of the [Socio-Technical Resistence and Ethical Technologies (STREET) Lab](https://www.streetlab.tech/). The two kind souls who showed me the world by teaching me how to read and write :D
 
 My academic background includes a Master of Information - Data Science and Information Systems from the University of Toronto, and a Bachelor of Business Administration - Management Sciences from City University of Hong Kong. 
 
