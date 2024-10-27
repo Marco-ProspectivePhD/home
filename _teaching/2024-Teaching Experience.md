@@ -14,7 +14,7 @@ Trying to provide the kids an academic exit pathway to the western free world.
 
 Slides attached below. 
 
-<iframe src="[https://utoronto-my.sharepoint.com/personal/marcokk_chan_mail_utoronto_ca/_layouts/15/Doc.aspx?sourcedoc={ecebabda-b377-4c18-8909-4af5a9becd86}&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1](https://utoronto-my.sharepoint.com/:p:/g/personal/marcokk_chan_mail_utoronto_ca/Edqr6-x3sxhMiQlK9am-zYYBupE30fxeFr53bI8PefBYQw?e=amJOc1)" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="[[https://utoronto-my.sharepoint.com/personal/marcokk_chan_mail_utoronto_ca/_layouts/15/Doc.aspx?sourcedoc={ecebabda-b377-4c18-8909-4af5a9becd86}&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1](https://utoronto-my.sharepoint.com/:p:/g/personal/marcokk_chan_mail_utoronto_ca/Edqr6-x3sxhMiQlK9am-zYYBupE30fxeFr53bI8PefBYQw?e=amJOc1)](https://utoronto-my.sharepoint.com/:p:/r/personal/marcokk_chan_mail_utoronto_ca/_layouts/15/Doc.aspx?sourcedoc=%7Becebabda-b377-4c18-8909-4af5a9becd86%7D&action=embedview&wdAr=1.7777777777777777&wdEaaCheck=1%5D(https%3A%2F%2Futoronto-my.sharepoint.com%2F%3Ap%3A%2Fg%2Fpersonal%2Fmarcokk_chan_mail_utoronto_ca%2FEdqr6-x3sxhMiQlK9am-zYYBupE30fxeFr53bI8PefBYQw%3Fe%3DamJOc1))" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 
 
