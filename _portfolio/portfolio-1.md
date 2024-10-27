@@ -1,7 +1,7 @@
 ---
 title: "180 Degrees Consulting CityU Branch"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+excerpt: "Founded the [180 Degrees Consulting CityU Branch](https://hk.linkedin.com/company/180dc-cityu) after my academic exchange to Copenhagen with the hope of generating social impact in Hong Kong<br/><img src='/images/500x300.png'>"
+collection: Community Project
 ---
 
 
