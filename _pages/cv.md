@@ -20,21 +20,26 @@ Work experience
   * University of Toronto Libraries
   * Duties include: Rescue sensitive Hong Kong archieves using wayback machine at Internet Archieves
 
+
 * Summer 2024: Global Connect Fellow
   * Nanyang Technological University Singapore
   * Duties include: Data preprocessing for Large Languange Model (LLM) text mining
+
 
 * Winter 2024: Program Completion Officer (Masters)
   * University of Toronto, School of Graduate Studies - Graduate Program Completion Office
   * Duties include: Coordinate final oral exmination process and ensure thesis formatting compliance
 
+
 * Winter 2024: Student Systems Support Representative
   * University of Toronto, School of Graduat Studies -  Office of the Dean
   * Duties include: Convert complex Rocketshuttle queries to SQL for Azure Data Studio & PowerBI Dashboard
 
+
 * Summer 2023: Banking Advisor
   * Royal Bank of Canada 
   * Duties include: 
+
 
 * Summer 2015: Research Assistant
   * Github University
