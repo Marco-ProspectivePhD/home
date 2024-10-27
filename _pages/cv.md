@@ -15,19 +15,18 @@ Education
 * B.B.A in Management Sciences, City University of Hong Kong, 2021
 
 <br/>
-
 Work experience
 ======
 * Fall 2024: Research Assistant
   * University of Toronto, Socio-Technical Resistence and Ethical Technologies (STREET) Lab
   * Duties include: Investigating the Socio-Technical Infrastructure of Diasporic Hong Kong Communities
- <br/>
 
+<br/>
 * Fall 2024: Graduate Student Library Assistant
   * University of Toronto Libraries
   * Duties include: Rescue sensitive Hong Kong archieves using wayback machine at Internet Archieves
-<br/>
 
+<br/>
 * Summer 2024: Global Connect Fellow
   * Nanyang Technological University Singapore
   * Duties include: Data preprocessing for Large Languange Model (LLM) text mining
@@ -95,7 +94,8 @@ Skills
 * Azure Data Studio
 * Regression Analysis
 * Advanced Methods in Prompt Design (Tree of Thoughts, Chain of Thought, Retrieval Augmented Generation)
-* Excel (Pivot Tables, VBA)
+* Spreadsheet Modeling
+*  
 * 
 
 
