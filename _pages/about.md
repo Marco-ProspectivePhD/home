@@ -9,7 +9,7 @@ redirect_from:
 
 I am a final-year master student in the Faculty of Information, University of Toronto. I aspire to pursue a PhD in Human Computer Interactoin and am currently researching on the socio-technical infrastructure of diasporic social movements.
 
-I have a broader research interest on technologies that protect our backsliding democracy - From social media, AI, to cryptography and tactics in using them. 
+I have a broader research interest on technologies that rescue our backsliding democracy - From social media, AI, to cryptography, as well as tactics and collective actions in leveraging them. Technologies are supportive instruments, it is the people's heart, mind, and will that drives democracy after all.  
 
 I am very fortunate to be advised by Professor [Vera Khovanskaya](https://verakhovanskaya.github.io/) on my master's thesis and by Profssor [Priyank Chandra](https://www.priyankc.com/) on my diasporic Hong Kong project as part of the [Socio-Technical Resistence and Ethical Technologies (STREET) Lab](https://www.streetlab.tech/). The two kind souls who showed me the world by teaching me how to read and write :D
 
