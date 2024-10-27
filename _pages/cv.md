@@ -33,23 +33,23 @@ Work experience
   * Duties include: Data preprocessing for Large Languange Model (LLM) text mining
 <br/>
 
-* Winter 2024: Program Completion Officer (Masters)
-  * University of Toronto, School of Graduate Studies - Graduate Program Completion Office
+* Winter 2024: **Program Completion Officer (Masters)**
+  * *University of Toronto, School of Graduate Studies - Graduate Program Completion Office*
   * Duties include: Coordinate final oral exmination process and ensure thesis formatting compliance
 <br/>
 
-* Winter 2024: Student Systems Support Representative
-  * University of Toronto, School of Graduat Studies -  Office of the Dean
+* Winter 2024: **Student Systems Support Representative**
+  * *University of Toronto, School of Graduat Studies -  Office of the Dean*
   * Duties include: Convert complex Rocketshuttle queries to SQL for Azure Data Studio & PowerBI Dashboard
 <br/>
 
-* Summer 2023: Banking Advisor
-  * Royal Bank of Canada (RBC)
+* Summer 2023: **Banking Advisor**
+  * *Royal Bank of Canada (RBC)*
   * Duties include: Communicated tactfully to uncover clients' investment needs/fraud situation
 <br/>
 
-* Winter 2023: Trading Development Officer (Derivatives) 
-  * Hong Kong Stock Exchange (HKEX)
+* Winter 2023: **Trading Development Officer (Derivatives)** 
+  * *Hong Kong Stock Exchange (HKEX)*
   * Duties include: Procude analysis on Hang Seng Indexes, MSCI, FTSE Futures & Options with SQL and Tableau
 <br/>
 
