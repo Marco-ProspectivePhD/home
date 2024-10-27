@@ -17,4 +17,4 @@ My academic background includes a Master of Information - Data Science and Infor
 
 Prior to gradschool, I worked at various banks, stock exchange, bloomberg, telecoms, semiconductors, and volunteered for pro-bono consulting, fundraising, teaching underprivileged kids English, and at times helped with redistribution of used goods. 
 
-Thank you for learning about me. I hope you are staying well in life. Please feel free to reach out if there is anything I could help and I hope that our paths will cross in the future :) 
+Thank you for learning about me. I hope you are staying well in life. Please feel free to reach out if there is anything I could help. May our paths cross in the future as we continue our adventure :) 
