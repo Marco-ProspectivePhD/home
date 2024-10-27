@@ -14,8 +14,6 @@ Education
 * M.I in Human-Centered Data Science & Information Systems Design, University of Toronto, 2024 (Expected)
 * B.B.A in Management Sciences, City University of Hong Kong, 2021
 
-
-
 <br/>
 
 Work experience
@@ -70,32 +68,36 @@ Work experience
   * Duties include: Assisted in Service Level Agreement drafting and documentation on client onboarding
 <br/>
 
-* Summer 2020: Scholarship Program Summer Intern
+* Summer 2020: Scholarship Program Intern
   * Deutsche Bank AG
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties include: Supported APEJ Corporate Communication for Country Head with result personally appreciated by MD<br/>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Overseas rotational Intern
+  * China Mobile International
+  * Duties include: Research on market entry strategy for the online travel agency (OTA) Market <br/>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Global Trade Compliance Intern
+  * STMicroelectronics NV
+  * Duties includes: Perform a full audit on lodged dual-use items trade declaration and export license <br/>
 
 
 Skills
 ======
-* NVivo 14 
+* NVivo 14
+* Thematic Analysis
+* Semi-Structured Interview
 * Python 
   * Pandas
   * Tableau
   * PowerBI
+* R
 * SQL
+* Azure Data Studio
+* Regression Analysis
+* Advanced Methods in Prompt Design (Tree of Thoughts, Chain of Thought, Retrieval Augmented Generation)
+* Excel (Pivot Tables, VBA)
 * 
-* 
+
 
 Publications
 ======
