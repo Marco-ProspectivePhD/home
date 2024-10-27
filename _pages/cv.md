@@ -15,6 +15,7 @@ Education
 * B.B.A in Management Sciences, City University of Hong Kong, 2021
 
 <br/>
+
 Work experience
 ======
 * Fall 2024: **Research Assistant**
