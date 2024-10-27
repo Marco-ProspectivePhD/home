@@ -14,7 +14,7 @@ Trying to provide the kids an academic exit pathway to the western free world.
 
 Slides attached below. 
 
-<iframe src="assets/Teaching Material.pptx" width="476px" height="288px" frameborder="0"></iframe>
+<iframe src="[assets/Teaching Material.pptx](https://utoronto-my.sharepoint.com/:p:/g/personal/marcokk_chan_mail_utoronto_ca/Edqr6-x3sxhMiQlK9am-zYYBupE30fxeFr53bI8PefBYQw)" width="476px" height="288px" frameborder="0"></iframe>
 
 
 
