@@ -1,6 +1,6 @@
 ---
 title: "180 Degrees Consulting CityU Branch"
-excerpt: "Founded the [180 Degrees Consulting CityU Branch](https://hk.linkedin.com/company/180dc-cityu) after my academic exchange to Copenhagen with the hope of generating social impact in Hong Kong<br/><img src='/images/500x300.png'>"
+excerpt: "Founded the [180 Degrees Consulting CityU Branch](https://hk.linkedin.com/company/180dc-cityu) after my academic exchange to Copenhagen with the hope of generating social impact in Hong Kong<br/><img src='/images/childish.png'>"
 collection: Community Project
 ---
 
