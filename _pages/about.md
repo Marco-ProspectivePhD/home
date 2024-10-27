@@ -13,11 +13,11 @@ I have a broader research interest on technologies that rescue our backsliding d
 
 I am very fortunate to be advised by Professor [Vera Khovanskaya](https://verakhovanskaya.github.io/) on my master's thesis and by Profssor [Priyank Chandra](https://www.priyankc.com/) on my diasporic Hong Kong project as part of the [Socio-Technical Resistence and Ethical Technologies (STREET) Lab](https://www.streetlab.tech/). The two kind souls who showed me the world by teaching me how to read and write :D
 
-My academic background includes a Master of Information - Data Science and Information Systems from the University of Toronto, and a Bachelor of Business Administration - Management Sciences from City University of Hong Kong. 
+My academic background includes a Master of Information - Data Science and Information Systems from the University of Toronto, and a Bachelor of Business Administration - Management Sciences from the City University of Hong Kong. 
 
-Prior to acaedmia, I worked for stock exchange, various banks, bloomberg, telecom, semiconductors, and volunteered for pro-bono consulting, fundraising, teaching underprivileged kids English, and at times helped with redistribution of used goods. 
+Prior to gradschool, I worked at various banks, stock exchange, bloomberg, telecoms, semiconductors, and volunteered for pro-bono consulting, fundraising, teaching underprivileged kids English, and at times helped with redistribution of used goods. 
 
-
+Thank you for learning about me. I hope you are staying well and that our paths will cross in the future :) 
 
 
 Create content & metadata
