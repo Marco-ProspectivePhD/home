@@ -17,18 +17,18 @@ Education
 <br/>
 Work experience
 ======
-* Fall 2024: Research Assistant
-  * University of Toronto, Socio-Technical Resistence and Ethical Technologies (STREET) Lab
+* Fall 2024: **Research Assistant**
+  * *University of Toronto, Socio-Technical Resistence and Ethical Technologies (STREET) Lab*
   * Duties include: Investigating the Socio-Technical Infrastructure of Diasporic Hong Kong Communities
 
 <br/>
-* Fall 2024: Graduate Student Library Assistant
-  * University of Toronto Libraries
+* Fall 2024: **Graduate Student Library Assistant**
+  * *University of Toronto Libraries*
   * Duties include: Rescue sensitive Hong Kong archieves using wayback machine at Internet Archieves
 
 <br/>
-* Summer 2024: Global Connect Fellow
-  * Nanyang Technological University Singapore
+* Summer 2024: **Global Connect Fellow**
+  * *Nanyang Technological University Singapore*
   * Duties include: Data preprocessing for Large Languange Model (LLM) text mining
 <br/>
 
