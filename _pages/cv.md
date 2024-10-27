@@ -21,6 +21,7 @@ Work experience
   * Duties include: Rescue sensitive Hong Kong archieves using wayback machine at Internet Archieves
 
 
+
 * Summer 2024: Global Connect Fellow
   * Nanyang Technological University Singapore
   * Duties include: Data preprocessing for Large Languange Model (LLM) text mining
