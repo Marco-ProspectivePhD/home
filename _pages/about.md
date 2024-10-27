@@ -15,6 +15,6 @@ I am very fortunate to be advised by Professor [Vera Khovanskaya](https://verakh
 
 My academic background includes a Master of Information - Data Science and Information Systems from the University of Toronto, and a Bachelor of Business Administration - Management Sciences from the City University of Hong Kong. 
 
-Prior to gradschool, I worked at various banks, stock exchange, bloomberg, telecoms, semiconductors, and volunteered for pro-bono consulting, fundraising, teaching underprivileged kids English, and at times helped with redistribution of used goods. 
+Prior to gradschool, I worked at various banks, stock exchange, bloomberg, telecoms, semiconductors, and volunteered for pro-bono consulting, fundraising, and teaching underprivileged kids English. 
 
-Thank you for learning about me. I hope you are staying well in life. Please feel free to reach out if there is anything I could help. May our paths cross in the future as we continue our adventure :) 
+Thank you for taking the time to learn about me. I hope you are staying well. If you have any questions of if there's aything I can assist you with, pease feel free to reach out. I look forward to the opportunity for future collaboration as we navigate our academic journey together :) 
