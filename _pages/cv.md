@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* Fall 2024: Research Fellow
+* Fall 2024: Research Assistant
   * University of Toronto, Socio-Technical Resistence and Ethical Technologies (STREET) Lab
   * Duties include: Investigating the Socio-Technical Infrastructure of Diasporic Hong Kong Communities
  <br/>
