@@ -60,22 +60,18 @@ Work experience
   * Duties include: Performed cooroboration and plausibility analysis on source of wealth of Ultra-High Network Clients
 <br/>
 
-* Summer 2022: Terminal Customer Support Intern
+* Summer 2021: Terminal Customer Support Intern
   * Bloomberg LP
-  * Duties included: 
+  * Duties include: Address service and analytics desk ticekts through in & outbound call handling, IB, and MSG. 
 <br/>
 
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
+* Winter 2021: COO Office Trainee
+  * BNP Paribas SA
+  * Duties include: Assisted in Service Level Agreement drafting and documentation on client onboarding
 <br/>
 
-
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2020: Scholarship Program Summer Intern
+  * Deutsche Bank AG
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
