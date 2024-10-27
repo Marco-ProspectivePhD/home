@@ -6,4 +6,4 @@ collection: Community Project
 
 ---
 
-<img align ="center" src='/images/500x300.png'>
+<img src='/images/500x300.png'>
