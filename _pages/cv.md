@@ -72,12 +72,12 @@ Work experience
 
 Skills
 ======
-* Qualitiative Research
+* **Qualitiative Research**
   * Thematic Analysis
   * Semi-Structured Interview
   * NVivo 14 
 
-* Quantitative Research
+* **Quantitative Research**
   * Data Preparation
   * Regression Analysis
   * Cluster Analysis
@@ -85,7 +85,7 @@ Skills
   * Text Processing
   * Graph Analysis 
 
-* Data Visualization 
+* **Data Visualization**
   * Python
   * Pandas
   * Tableau
@@ -95,30 +95,22 @@ Skills
   * SQL
   * Spreadsheet Modeling 
 
-* Large Language Models and AI  
+* **Large Language Models and AI**
   * Chain of Thoughts
   * Tree of Thoughts
   * Retrieval Augmented Generation
 
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*(Service and leadership are temporarily deprioritized due to displacement and PhD Application)*
+
+* Founding President of 180 Degrees Consulting CityU Branch
+* Consultant at 180 Degrees Consulting Copenhagen Branch
+* Member at iSchool Peer Mentoring 
+* Teacher at Hong Kong America Education Exchange Association 
+* Committee Member at CityU Business Proposal and Competition Club
+* Committee Member at CityU Model United Nations Club 
+* Volunteer at CareER Association
+* Volunteer at Kids4Kids Association
+* Volunteer at Crossroads Foundation
+* Volunteer at Food Angel
