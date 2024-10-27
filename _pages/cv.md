@@ -18,7 +18,7 @@ Work experience
 ======
 * Fall 2024: Research Fellow
   * University of Toronto, Socio-Technical Resistence and Ethical Technologies (STREET) Lab
-  * Duties include: Investigating the Socio-Technical Infrastructure of Diasporic Hong Kong Communities<br/>
+  * Duties include: Investigating the Socio-Technical Infrastructure of Diasporic Hong Kong Communities <br/>
 
 * Fall 2024: Graduate Student Library Assistant
   * University of Toronto Libraries
@@ -26,15 +26,15 @@ Work experience
 
 * Summer 2024: Global Connect Fellow
   * Nanyang Technological University Singapore
-  * Duties include: Data preprocessing for Large Languange Model (LLM) text mining<br/>
+  * Duties include: Data preprocessing for Large Languange Model (LLM) text mining <br/>
 
 * Winter 2024: Program Completion Officer (Masters)
   * University of Toronto, School of Graduate Studies - Graduate Program Completion Office
-  * Duties include: Coordinate final oral exmination process and ensure thesis formatting compliance<br/>
+  * Duties include: Coordinate final oral exmination process and ensure thesis formatting compliance <br/>
 
 * Winter 2024: Student Systems Support Representative
   * University of Toronto, School of Graduat Studies -  Office of the Dean
-  * Duties include: Convert complex Rocketshuttle queries to SQL for Azure Data Studio & PowerBI Dashboard<br/>
+  * Duties include: Convert complex Rocketshuttle queries to SQL for Azure Data Studio & PowerBI Dashboard <br/>
 
 * Summer 2023: Banking Advisor
   * Royal Bank of Canada (RBC)
