@@ -12,10 +12,7 @@ redirect_from:
 Education
 ======
 * M.I in Human-Centered Data Science & Information Systems Design, University of Toronto, 2024 (Expected)
-* B.B.A in Management Sciences, City University of Hong Kong, 2021
-
-<br/>
-<br/>
+* B.B.A in Management Sciences, City University of Hong Kong, 2021<br/><br/>
 
 Work experience
 ======
