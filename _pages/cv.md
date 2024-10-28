@@ -38,31 +38,31 @@ Work experience
 
 * Summer 2023: **Banking Advisor**
   * *Royal Bank of Canada (RBC)*
-  * Duties include: Communicated tactfully to uncover clients' investment needs/fraud situation
+  * Duties include: Tactfully communicating to uncover clients' investment needs/fraud situation
 
 * Winter 2023: **Trading Development Officer (Derivatives)** 
   * *Hong Kong Stock Exchange (HKEX)*
-  * Duties include: Procude analysis on Hang Seng Indexes, MSCI, FTSE Futures & Options with SQL and Tableau
+  * Duties include: Analysis on Hang Seng Indexes, MSCI, FTSE Futures & Options with SQL and Tableau
 
 * Fall 2022: **Source of Wealth Analyst (Private Banking)**
   * *Credit Suisse AG*
-  * Duties include: Performed cooroboration and plausibility analysis on source of wealth of Ultra-High Network Clients
+  * Duties include: Coroboration and plausibility analysis on source of wealth of Ultra-High Networth Clients
 
 * Summer 2021: **Terminal Customer Support Intern**
   * *Bloomberg LP*
-  * Duties include: Address service and analytics desk ticekts through in & outbound call handling, IB, and MSG. 
+  * Duties include: Service and analytics desk ticekts through in & outbound call handling, IB, and MSG
 
 * Winter 2021: **COO Office Trainee**
   * *BNP Paribas SA*
-  * Duties include: Assisted in Service Level Agreement drafting and documentation on client onboarding
+  * Duties include: Assist in Service Level Agreement drafting and documentation on client onboarding
 
 * Summer 2020: **Scholarship Program Intern**
   * *Deutsche Bank AG*
-  * Duties include: Supported APEJ Corporate Communication for Country Head
+  * Duties include: Support APEJ Corporate Communication for Country Head
 
 * Summer 2019: **Overseas rotational Intern**
   * *China Mobile International*
-  * Duties include: Research on market entry strategy for the online travel agency (OTA) Market <br/>
+  * Duties include: Research on market entry strategy for the online travel agency (OTA) Market
 
 * Summer 2019: **Global Trade Compliance Intern**
   * *STMicroelectronics NV*
