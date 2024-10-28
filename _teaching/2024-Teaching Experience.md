@@ -14,4 +14,4 @@ Trying to provide the kids an academic exit pathway to the western free world.
 
 Slides attached [here](https://utoronto-my.sharepoint.com/:p:/g/personal/marcokk_chan_mail_utoronto_ca/Edqr6-x3sxhMiQlK9am-zYYBupE30fxeFr53bI8PefBYQw?e=hfFGM9&nav=eyJzSWQiOjMyMCwiY0lkIjoyOTM2MzI2MTEzfQ). 
 
-<iframe src="https://utoronto-my.sharepoint.com/:p:/g/personal/marcokk_chan_mail_utoronto_ca/Edqr6-x3sxhMiQlK9am-zYYBupE30fxeFr53bI8PefBYQw?e=MavO8I" width="600" height="400" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMgjlSnzPIiqXIs2lPlbxbMr8iI8yAD_RrxVuevVOxGngz4P9onGDIpIpcXA-DDQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
