@@ -73,7 +73,8 @@ Skills
 * **Qualitiative Research**
   * Thematic Analysis
   * Semi-Structured Interview
-  * NVivo 14 
+  * NVivo 14
+  * Zotero
 
 * **Quantitative Research**
   * Data Preparation
