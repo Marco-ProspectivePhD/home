@@ -9,13 +9,12 @@ Photo below is our final presentation night where student consultants present th
 <img src='/home/images/500x300.png'><br>
 
 
-For services at 180 Degrees Consulting, please see our publicized project [here](https://drive.google.com/file/d/1-DkGAV8TzFDyAm4MAERJs18cmmhpO1YH/view?usp=sharing)." 
+For services at 180 Degrees Consulting, learn more at [180dc.org](180dc.org) or check out our one-pager for clients [here](https://drive.google.com/file/d/1-DkGAV8TzFDyAm4MAERJs18cmmhpO1YH/view?usp=sharing)." 
 
 
 collection: "Community Project"
 
 ---
-
 
 Slides of 180 Degrees Consulting:<br>
 
