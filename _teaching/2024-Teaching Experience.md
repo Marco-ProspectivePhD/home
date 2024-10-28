@@ -12,9 +12,9 @@ Virtually deliver English class to underprivilege kids with a theme of *"AI in v
 
 Trying to provide the kids an academic exit pathway to the western free world. 
 
-Slides attached below. 
+Slides attached [here](). 
 
-<iframe src="[assets/Teaching Material.pptx](https://utoronto-my.sharepoint.com/:p:/g/personal/marcokk_chan_mail_utoronto_ca/Edqr6-x3sxhMiQlK9am-zYYBupE30fxeFr53bI8PefBYQw)" width="476px" height="288px" frameborder="0"></iframe>
+<iframe src="[https://utoronto-my.sharepoint.com/:p:/g/personal/marcokk_chan_mail_utoronto_ca/Edqr6-x3sxhMiQlK9am-zYYBupE30fxeFr53bI8PefBYQw](https://utoronto-my.sharepoint.com/personal/marcokk_chan_mail_utoronto_ca/_layouts/15/Doc.aspx?sourcedoc={ecebabda-b377-4c18-8909-4af5a9becd86}&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1))" width="476px" height="288px" frameborder="0"></iframe>
 
 
 
