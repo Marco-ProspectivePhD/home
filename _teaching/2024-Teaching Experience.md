@@ -8,7 +8,7 @@ date: 2024-06-03
 location: "Virtual, California, United States of America"
 ---
 
-Virtually deliver English class to underprivilege kids with a theme of *"AI in videogames, conflict resolution, and productivity"*. 
+Virtually deliver English classes to underprivilege kids with a theme of *"AI in videogames, conflict resolution, and productivity"*. 
 
 Trying to provide the kids an academic exit pathway to the western free world. 
 
