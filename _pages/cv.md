@@ -58,7 +58,7 @@ Work experience
 
 * Summer 2020: **Scholarship Program Intern**
   * *Deutsche Bank AG*
-  * Duties include: Supported APEJ Corporate Communication for Country Head with result personally appreciated by MD
+  * Duties include: Supported APEJ Corporate Communication for Country Head
 
 * Summer 2019: **Overseas rotational Intern**
   * *China Mobile International*
