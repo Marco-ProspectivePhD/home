@@ -8,9 +8,9 @@ date: 2024-06-03
 location: "Virtual, California, United States of America"
 ---
 
-Virtually deliver English classes to underprivilege kids with a theme of *"AI in videogames, conflict resolution, and productivity"*. 
+Virtually deliver English classes to disadvantaged students with a theme of *"AI in videogames, conflict resolution, and productivity"*. 
 
-Trying to provide the kids an academic exit pathway to the western free world. 
+It is a series of 4 workshops delivered to a group of junior highschool students whose parents did not receive college education. The goal is to provoke students' interest in English, technologies, and tertiary education by exposing them in a non rote-learning environment.  
 
 Slides attached [here](https://docs.google.com/presentation/d/e/2PACX-1vQMgjlSnzPIiqXIs2lPlbxbMr8iI8yAD_RrxVuevVOxGngz4P9onGDIpIpcXA-DDQ/pub?start=false&loop=false&delayms=3000). 
 
