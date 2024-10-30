@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 
-
-This is Marco Chan's website. I am a final year master's students at the [Faculty of Information](https://ischool.utoronto.ca/), University of Toronto. 
+Hello! This is Marco Chan's website. I am a final year master's students at the [Faculty of Information](https://ischool.utoronto.ca/), University of Toronto. 
 
 I have a broad research interest on technologies that strengthen our backsliding democracy. From combating misinformation to exploring cryptography and decentralized finance, I aim to investigate strategies and collective actions in deploying these technologies, as well as the design implications that supports social justice. Technologies are after all instruments, it is the people’s heart, mind, and will that drive democracy.
 
