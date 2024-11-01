@@ -1,6 +1,6 @@
 ---
 title: "180 Degrees Consulting CityU Branch"
-excerpt: "Founded the [180 Degrees Consulting CityU Branch](https://hk.linkedin.com/company/180dc-cityu) after my academic exchange to Copenhagen with the hope of generating social impact in Hong Kong.<br>
+excerpt: "Founded the [180 Degrees Consulting CityU Branch](https://hk.linkedin.com/company/180dc-cityu), a brach of the world's largest student-led consultancy for non-profits, after my academic exchange to Copenhagen with the hope of generating social impact in Hong Kong.<br>
 
 
 Photo below is our final presentation night where student consultants present their projects to their mentors and non-profit clients.<br>
