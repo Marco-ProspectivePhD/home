@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! Welcome to Marco Chan's website! I am a final year master's students at the [Faculty of Information](https://ischool.utoronto.ca/), University of Toronto. 
 
-My research interest focuses on technologies that bolster our increasingly fragile democracies. Frmo designing community-based sociotechnical system, combatting against misinformation, to exploring alternative economies that sustain democratic structures, I am dedicated to creating effective social technologies that address state surveillance, political polarization, and the entrenched systemic inequality in wealth and power that results in vulnerablities to democratic structures. 
+My research interest focuses on technologies that bolster our increasingly fragile democracies. From designing community-based sociotechnical system, combatting against misinformation, to exploring alternative economies that sustain democratic structures, I am dedicated to creating effective social technologies that address state surveillance, political polarization, and the entrenched systemic inequality in wealth and power that results in vulnerablities to democratic structures. 
 
 I am very fortunate to be advised by Professor [Vera Khovanskaya](https://verakhovanskaya.github.io/) on my master's thesis and by Professor [Priyank Chandra](https://www.priyankc.com/) on my diasporic Hong Kong project as part of the [Socio-Technical Resistance and Ethical Technologies (STREET) Lab](https://www.streetlab.tech/). The two kind and beautiful souls who showed me the world by teaching me how to read and write!
 
