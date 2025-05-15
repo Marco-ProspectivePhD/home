@@ -71,7 +71,7 @@ Work experience
 Skills
 ======
 * **Qualitiative Research**
-  * Thematic Analysis
+  * Coding and Thematic Analysis
   * Semi-Structured Interview
   * NVivo 14
   * Zotero
@@ -83,7 +83,13 @@ Skills
   * Cluster Analysis
   * Classification
   * Text Processing
-  * Graph Analysis 
+  * Graph Analysis
+  * A/B Testing
+  * Multi-Armed Bandits and Sequential Testing
+  * RCTs
+  * Causal Inference
+  * Quasi-Experimental Design
+  * Machine Learning Experimental Design
 
 * **Data Visualization**
   * Python
