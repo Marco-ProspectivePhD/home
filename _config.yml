@@ -12,7 +12,7 @@ title                    : "Marco Chan"
 title_separator          : "-"
 name                     : &name "Marco Chan"
 description              : &description "I am a second-year master student in the Faculty of Information, Unniversity of Toronto"
-url                      : https://marco-prospectivephd.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://marco-prospectivephd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
