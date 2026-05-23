@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar_scholar_256.png"
   name             : "Noah Kei"
   pronouns         : "He/Him"  
   bio              : "Master's Graduate in Information: Human-Centered Data Science & Information Systems Design"
